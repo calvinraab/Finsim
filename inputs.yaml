@@ -21,10 +21,13 @@ expenses:
 
 years: 30
 
+job_loss:
+  year: 10
+
 life_events:
-  - year: 7
-    description: "Salary drop due to job change"
-    income_change: -100000
-  - year: 20
-    description: "Salary grows due to job change"
-    income_change: 2000000
+  job_loss:
+    year: 10
+  job_gain:
+    year: 15
+    salary: 100000
+
