@@ -6,6 +6,12 @@ income:
   personal_401k_pct: 10
   employer_401k_match_pct: 6
 
+personal_investments:
+  balance: 0
+  annual_contribution: 5000
+  investment_growth_rate: 7.0
+
+
 investments:
   roth_ira_contrib: 6000
   personal_investments: 20000
@@ -20,9 +26,6 @@ expenses:
   annual_increase_rate: 2.5
 
 years: 30
-
-job_loss:
-  year: 10
 
 life_events:
   job_loss:
