@@ -3,8 +3,6 @@
 income:
   base_salary: 120000
   salary_increase_rate: 3.0
-  personal_401k_pct: 10
-  employer_401k_match_pct: 6
 
 personal_investment_account:
   balance: 0
@@ -39,8 +37,5 @@ years: 30
 
 life_events:
   job_loss:
-    year: 10
-  job_gain:
-    year: 15
-    salary: 100000
+    year: 5
 
