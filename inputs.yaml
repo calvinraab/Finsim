@@ -11,6 +11,16 @@ personal_investment_account:
   annual_contribution: 5000
   investment_growth_rate: 7.0
 
+k_401:
+  initial_balance: 50000  # Starting balance for 401(k)
+  personal_contribution_rate: 10  # % of salary
+  employer_match_rate: 6  # % of salary
+  investment_growth_rate: 7.0
+
+roth_ira:
+  initial_balance: 0  # Starting balance for Roth IRA
+  annual_contribution: 6000  # Max allowable contribution
+  investment_growth_rate: 7.0
 
 investments:
   roth_ira_contrib: 6000
