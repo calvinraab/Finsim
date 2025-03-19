@@ -1,16 +1,16 @@
 # YAML example for inputs.yml
 
 income:
-  base_salary: 120000
+  base_salary: 90_000
   salary_increase_rate: 3.0
 
 personal_investment_account:
   balance: 0
-  annual_contribution: 5000
+  annual_contribution: 7000
   investment_growth_rate: 7.0
 
 k_401:
-  initial_balance: 50000  # Starting balance for 401(k)
+  initial_balance: 30000  # Starting balance for 401(k)
   personal_contribution_rate: 10  # % of salary
   employer_match_rate: 6  # % of salary
   investment_growth_rate: 7.0
